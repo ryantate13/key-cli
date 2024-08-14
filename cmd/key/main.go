@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/ryantate13/key_cli"
+	"github.com/ryantate13/key-cli"
 )
 
 const (

@@ -1,4 +1,4 @@
-module github.com/ryantate13/key_cli
+module github.com/ryantate13/key-cli
 
 go 1.20
 
